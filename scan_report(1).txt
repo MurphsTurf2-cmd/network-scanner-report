@@ -1,0 +1,4 @@
+NETWORK SCAN REPORT
+Target: 127.0.0.1
+Scan Duration: 0:00:00.002789
+Open Ports:
