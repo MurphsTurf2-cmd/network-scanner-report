@@ -1,0 +1,6 @@
+NETWORK SCAN REPORT
+Target: scanme.nmap.org
+Scan Duration: 0:00:00.660938
+Open Ports:
+22
+80
